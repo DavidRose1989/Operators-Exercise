@@ -1,0 +1,15 @@
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.AssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\bin\Debug\net7.0\Operators-Exercise.exe
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\bin\Debug\net7.0\Operators-Exercise.deps.json
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\bin\Debug\net7.0\Operators-Exercise.runtimeconfig.json
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\bin\Debug\net7.0\Operators-Exercise.dll
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\bin\Debug\net7.0\Operators-Exercise.pdb
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.dll
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\refint\Operators-Exercise.dll
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.pdb
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\Operators-Exercise.genruntimeconfig.cache
+C:\Users\David\OneDrive\Desktop\Repos\Operators-Exercise\obj\Debug\net7.0\ref\Operators-Exercise.dll

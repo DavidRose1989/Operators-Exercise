@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj": {}
+    "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\Operators-Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj": {
+    "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\Operators-Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
-        "projectName": "OperatorExercise",
-        "projectPath": "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
+        "projectUniqueName": "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\Operators-Exercise.csproj",
+        "projectName": "Operators-Exercise",
+        "projectPath": "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\Operators-Exercise.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\OperatorExercise\\obj\\",
+        "outputPath": "C:\\Users\\David\\OneDrive\\Desktop\\Repos\\Operators-Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
